@@ -9,6 +9,12 @@ website:
   google-analytics: 
     tracking-id: G-MNB20SM8CV
     storage: cookies
+  comments: 
+    giscus:
+      repo: ForrestCKoch/forrestckoch.github.io
+  theme:
+    light: flatly
+    dark: darkly
 ---
 
 This is a Quarto website.
