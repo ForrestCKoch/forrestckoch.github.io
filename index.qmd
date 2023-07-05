@@ -1,5 +1,14 @@
 ---
 title: "forrestckoch.github.io"
+website:
+  twitter-card:
+    creator: ForrestCKoch
+    image: headshot.jpg
+  open-graph: true
+  favicon: logo.png
+  google-analytics: 
+    tracking-id: G-MNB20SM8CV
+    storage: cookies
 ---
 
 This is a Quarto website.
